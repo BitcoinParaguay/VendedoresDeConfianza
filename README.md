@@ -4,3 +4,4 @@
 | Juan José Salcedo | https://fb.com/juanjose.salcedoduo | BTC | Efectivo | Compra/Venta | Asunción |
 | Adrían Soria | https://www.fb.com/adrian.soria.3150 | BTC | - | Compra/Venta | Asunción |
 | Lucas Brakenridge | https://www.fb.com/lucas.brakenridge | BTC | Efectivo & Transferencia Bancaria | Compra/Venta | Asunción |
+| Alvaro Rodriguez | https://fb.com/alvaro.rodriguez.olmedo | BTC LTC ETH XMR | Efectivo  Tigo Money  Transferencia Bancaria | Compra/Venta | Todo Paraguay |
